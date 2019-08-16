@@ -2,7 +2,7 @@
 
 #Author - Marisa
 #print a string - hello marisa
-print "Hello Marisa \n";
+print "Hello Marisa you pushed successfully \n";
 
 
 
